@@ -9,3 +9,4 @@
 6. Display the third line of /iacta
 6. Display the third line of /iacta
 6. Display the third line of /iacta
+7. a shell script that creates a file named exactly \*\\Best School'\*$?*****:) containing the text Best School ending by a new line.
